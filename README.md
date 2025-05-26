@@ -1,11 +1,15 @@
 # Simple strings and string related function
 
 just something that adds strings 
-i add to this as i need string related functions so it will probably never be done
+<br>
+<br>
+i add too this as i need string related functions so it will probably never be done
 
 ## Quick Start
 
 this is and STB-Style header only library so you will need to define STRUNG_IMPLMENTATION before including 
+<br>
+<br>
 like this:
 
 ```c
